@@ -1,0 +1,11 @@
+/node_modules
+/.vscode
+
+.env
+.env.dev
+.env.prod
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
